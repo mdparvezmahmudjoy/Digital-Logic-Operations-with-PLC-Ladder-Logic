@@ -12,31 +12,31 @@ This repository contains:
 
 2.3D_Model_Factory_IO
 
-   Interactive 3D simulation model (compatible with Factory I/O).
+    Interactive 3D simulation model (compatible with Factory I/O).
 
-   Visualizes PLC logic in an industrial automation context.
+    Visualizes PLC logic in an industrial automation context.
 
 3.Schematic_Program_Block.pdf
 
-   PDF documentation of the program structure and logic flow.
+    PDF documentation of the program structure and logic flow.
 
-   Annotated ladder diagrams for easy reference.
+    Annotated ladder diagrams for easy reference.
 
 4.Demo_Video.mp4
 
-   Step-by-step walkthrough of project operations.
+    Step-by-step walkthrough of project operations.
 
-   Shows real-time responses to input triggers.
+    Shows real-time responses to input triggers.
 
 🛠️ Requirements
 Software:
 
-   Siemens TIA Portal (V16 or later).
+    Siemens TIA Portal (V16 or later).
 
-   Factory I/O (optional, for 3D simulation).
+    Factory I/O (optional, for 3D simulation).
 
 Hardware:
 
-   Compatible S7 PLC (e.g., S7-1200/S7-1500) or PLCSIM Advanced for virtual testing.
+    Compatible S7 PLC (e.g., S7-1200/S7-1500) or PLCSIM Advanced for virtual testing.
    
    
