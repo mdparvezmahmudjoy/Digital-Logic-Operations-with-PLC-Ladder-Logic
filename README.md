@@ -1,4 +1,4 @@
-#Bit Logic Operations in Siemens TIA Portal (LAD)
+Bit Logic Operations in Siemens TIA Portal (LAD)
 A demonstration of fundamental bit logic operations using Ladder Diagram (LAD) in Siemens TIA Portal for S7 PLCs.
 
 📁 Project Contents
